@@ -2,5 +2,6 @@ sudo apt-get update -y && sudo apt-get install dialog bash sed wget git curl zip
 git clone https://github.com/akhilnarang/scripts
 bash scripts/setup/android_build_env.sh
 rm -rf scripts
+rm workspace.sh
 neofetch
 df -h
