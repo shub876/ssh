@@ -5,7 +5,3 @@
 # rm workspace.sh
 # neofetch
 # df -h
-git clone https://github.com/ROM-Dump/DumprX.git
-cd DumprX
-touch .github_token
-touch .github_orgname
